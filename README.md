@@ -1,4 +1,4 @@
-# MaritimeNavigator ⚓
+# Marine-Wayfinder ⚓
 
 **Next-Gen Logistics & Vessel Telemetry**
 
